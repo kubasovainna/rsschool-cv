@@ -1,6 +1,5 @@
 # Inna Kubasova  
-**Junior Frontend Developer**
----------------------------
+## Junior Frontend Developer
 
 ### Contact information:
 **E-mail:** [kubasovainna@mail.ru](mailto:kubasovainna@mail.ru)  
