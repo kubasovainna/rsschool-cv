@@ -1,5 +1,6 @@
-# Inna Kubasova
-## Junior Frontend Developer
+# Inna Kubasova  
+**Junior Frontend Developer**
+---------------------------
 
 ### Contact information:
 **E-mail:** [kubasovainna@mail.ru](mailto:kubasovainna@mail.ru)  
@@ -35,12 +36,12 @@ var uniqueInOrder = function(iterable) {
   }
   return arr;
 }
-
 ````
 
 ------------
 
 ### Experience:
+Study projects (html, js, css, node, express), as well as experience writing scripts for websites working as a freelancer
 
 ------------
 
@@ -53,7 +54,7 @@ var uniqueInOrder = function(iterable) {
     Master of Information Technology (MIT), Web developer  
     2020-2022 (expected)
 * **Courses:**
-    * [Web server technologies and content management systems] (https://openedu.ru/course/ITMOUniversity/NODEJS/?session=self_2021_2022)
+    * [Web server technologies and content management systems](https://openedu.ru/course/ITMOUniversity/NODEJS/?session=self_2021_2022)
     * [Codewars](https://www.codewars.com/users/kubasovainna)
     * [HTML Academy](https://htmlacademy.ru/courses)
 
